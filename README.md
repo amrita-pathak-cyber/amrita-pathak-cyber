@@ -11,7 +11,7 @@ Technical content writer since 2018, writing on cybersecurity, AI, and SaaS. Now
 
 ## Where content meets cyber
 
-I've written about cybersecurity concepts for years — now I'm learning to work with the systems I've been writing about. Observability and security overlap more than people expect: logs, incident response, monitoring, alerting. This repo (and the one linked below) documents that hands-on side.
+I've written about cybersecurity concepts for years; now I'm learning to work with the systems I've been writing about. Observability and security overlap more than people expect: logs, incident response, monitoring, alerting. This repo (and the one linked below) documents that hands-on side.
 
 ## Tools I'm working with
 
